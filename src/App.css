@@ -1,0 +1,28 @@
+.MuiPaper-root{
+ 
+  /* width: 280px; */
+  
+}
+.css-1t1j96h-MuiPaper-root-MuiDialog-pape{
+
+  width: 280px;
+
+}
+
+.css-pwngrv-MuiPaper-root-MuiCard-root{
+
+
+}
+ 
+.MuiDialog-paper {
+  width: 280px;
+}
+/* MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthSm css-1t1j96h-MuiPaper-root-MuiDialog-paper */
+
+
+
+/* MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-pwngrv-MuiPaper-root-MuiCard-root */
+.MuiCard-root{
+  width: 200px;
+  height: 200px;
+}
